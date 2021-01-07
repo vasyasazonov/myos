@@ -1,4 +1,4 @@
-all: kernel modules link
+all: modules kernel link
 
 #modules
 modules: output idt keyboard
