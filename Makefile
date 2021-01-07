@@ -42,5 +42,4 @@ clean:
 
 #starting emulation
 run:
-	#@qemu-system-x86_64 -cdrom os.iso
 	@qemu-system-x86_64 -kernel kernel
